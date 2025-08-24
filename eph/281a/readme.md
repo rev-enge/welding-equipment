@@ -1,6 +1,6 @@
 # Identification of the board
 
-Type: EPH-294
+Type: EPH-281A
 
 Manufacturers number: APS
 
@@ -14,7 +14,7 @@ Picture of the board bottom view:
 
 # Description
 
-This board contains ???.
+This board contains the logic for starting, reversing and delay timing of the motor.
 
 Board size: 100 x 92.5 mm
 

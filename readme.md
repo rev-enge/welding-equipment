@@ -1,10 +1,10 @@
-# EPH Elektronic board
+# Elektronic boards used in welding equipment
 
-Reverse engineered (parts) of the EPH-xxx boards.
+Reverse engineered (parts) of boards used in all kinds of welding machines and other related stuff.
 
-This board is used in a so call "welding rotator" for welding pipes.
 
 # Table of contents
 
-* EPH-281A board => [281A](281a/readme.md)
-* EPH-294 board => [294](294/readme.md)
+Welding rotator:
+
+* EPH boards => [eph](eph/readme.md)
