@@ -8,3 +8,7 @@ Reverse engineered (parts) of boards used in all kinds of welding machines and o
 Welding rotator:
 
 * EPH boards => [eph](eph/readme.md)
+
+MIG welder wire motor and torch control board:
+
+* RE-ELETTRONICA => [re](re/readme.md)
