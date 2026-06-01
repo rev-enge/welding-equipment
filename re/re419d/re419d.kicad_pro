@@ -414,6 +414,14 @@
     [
       "68c62594-bc2e-443c-8112-a8c84d925385",
       ""
+    ],
+    [
+      "c3e355af-d956-4593-a485-89745df8a5c8",
+      "gas-arc-control"
+    ],
+    [
+      "00dc0c9f-b204-4ac2-9f3e-96d11b4f0438",
+      "wire-control"
     ]
   ],
   "text_variables": {}
