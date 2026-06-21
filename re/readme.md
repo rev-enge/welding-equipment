@@ -1,6 +1,7 @@
 # RE Elektronic boards
 
-They design and make boards for welding machines, drivers for DC, AC and brushless motors, digital drivers for automatic doors as well as custom products.
+This company designs and make boards for welding machines, drivers for DC, AC and brushless motors,
+ digital drivers for automatic doors as well as custom products.
 
 <pre>
 Manufacturer: RE ELETTRONICA INDUSTRIALE

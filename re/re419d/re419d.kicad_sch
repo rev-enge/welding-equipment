@@ -6,10 +6,9 @@
 
   (title_block
     (title "RE419 welding control board")
-    (date "2026-06-01")
+    (date "2026-06-21")
     (rev "D")
     (company "Rowac 420")
-    (comment 4 "Incomplete")
   )
 
   (lib_symbols
@@ -47,6 +46,18 @@
   )
 
   (symbol_instances
+    (path "/c3e355af-d956-4593-a485-89745df8a5c8/20160302-4efc-424b-8df3-1f8699ef7f8c"
+      (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/c3e355af-d956-4593-a485-89745df8a5c8/fa2e7463-85d5-49da-a623-13c552d0f6fe"
+      (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/c3e355af-d956-4593-a485-89745df8a5c8/2934ddb3-df52-47db-9bd1-5f2bf6ac3ae6"
+      (reference "#FLG0104") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
+    (path "/c3e355af-d956-4593-a485-89745df8a5c8/0110e8b7-87c1-49b4-a718-88755cc0d215"
+      (reference "#FLG0105") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/00dc0c9f-b204-4ac2-9f3e-96d11b4f0438/ae552432-f6b8-49c4-8cc6-056844bc7e08"
       (reference "#PWR0101") (unit 1) (value "+12V") (footprint "")
     )
@@ -342,7 +353,7 @@
       (reference "D16") (unit 1) (value "1N4148") (footprint "")
     )
     (path "/c3e355af-d956-4593-a485-89745df8a5c8/b11d8b1d-e035-44d2-8c49-92f1d2b389b6"
-      (reference "D17") (unit 1) (value "?") (footprint "")
+      (reference "D17") (unit 1) (value "1N4148") (footprint "")
     )
     (path "/c3e355af-d956-4593-a485-89745df8a5c8/af812be9-c897-4ec4-920e-285251d448ac"
       (reference "D18") (unit 1) (value "1N4148") (footprint "")
@@ -403,6 +414,12 @@
     )
     (path "/c3e355af-d956-4593-a485-89745df8a5c8/6d3ee390-83b6-4cda-94ba-d42453a6858d"
       (reference "L39") (unit 1) (value "10uH") (footprint "")
+    )
+    (path "/00dc0c9f-b204-4ac2-9f3e-96d11b4f0438/cdbf814d-05ee-4f14-92ca-6415c7b818b4"
+      (reference "P1") (unit 1) (value "100k") (footprint "")
+    )
+    (path "/c3e355af-d956-4593-a485-89745df8a5c8/8be09221-a3f8-4382-a6bb-cd6b79a3679e"
+      (reference "P2") (unit 1) (value "470E") (footprint "")
     )
     (path "/00dc0c9f-b204-4ac2-9f3e-96d11b4f0438/795be93a-2a90-4b18-8e7a-b50bfc1d7821"
       (reference "R1") (unit 1) (value "47E") (footprint "")
@@ -521,6 +538,9 @@
     (path "/c3e355af-d956-4593-a485-89745df8a5c8/6d1d6923-3b30-4922-9fab-d4d54894febd"
       (reference "R39") (unit 1) (value "4k7") (footprint "")
     )
+    (path "/c3e355af-d956-4593-a485-89745df8a5c8/4a3d598e-09cf-46f2-ae36-a8e7e97ec590"
+      (reference "R40") (unit 1) (value "10k") (footprint "")
+    )
     (path "/c3e355af-d956-4593-a485-89745df8a5c8/a7451495-98ca-4f1d-acd7-56cc1fd44488"
       (reference "R42") (unit 1) (value "120k") (footprint "")
     )
@@ -589,12 +609,6 @@
     )
     (path "/00dc0c9f-b204-4ac2-9f3e-96d11b4f0438/1cd612c5-80d2-400f-8bbf-07aa15931416"
       (reference "U1") (unit 5) (value "LM324") (footprint "")
-    )
-    (path "/00dc0c9f-b204-4ac2-9f3e-96d11b4f0438/cdbf814d-05ee-4f14-92ca-6415c7b818b4"
-      (reference "V-max") (unit 1) (value "100k") (footprint "")
-    )
-    (path "/c3e355af-d956-4593-a485-89745df8a5c8/8be09221-a3f8-4382-a6bb-cd6b79a3679e"
-      (reference "V-min") (unit 1) (value "470E") (footprint "")
     )
     (path "/c3e355af-d956-4593-a485-89745df8a5c8/610f438b-4880-44cf-aeef-080fec0b2bcf"
       (reference "Z1") (unit 1) (value "10V") (footprint "")
